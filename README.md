@@ -1,18 +1,26 @@
 Hi there 👋
-I'm @GeorgeGitSter!
+I'm @GeorgeGitSter! ✨
 
 About Me:
-👀 I'm deeply interested in Web Development.
+👀 I'm deeply interested in Web and Mobile Development. 📱💻
 
 🌱 I'm currently learning:
 
-HTML
+HTML 🌐
 
-CSS
+CSS 🎨
 
-JAVASCRIPT
+JAVASCRIPT 🚀
 
-Feel free to connect or explore my repositories!
+REACTJS ⚛️
+
+NEXTJS ⚡
+
+FLUTTER (DART) 💙
+
+Feel free to explore my repositories! 💖
+
+
 <!---
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
